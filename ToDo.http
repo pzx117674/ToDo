@@ -1,0 +1,13 @@
+﻿@ToDo_HostAddress = https://localhost:7163
+
+GET {{ToDo_HostAddress}}/todoitems
+
+###
+
+POST {{ToDo_HostAddress}}/todoitems
+
+###
+
+GET {{ToDo_HostAddress}}/todoitems
+
+###
